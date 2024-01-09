@@ -42,3 +42,9 @@ nav a:hover {
   color: var(--gray);
 }
 
+.project-1 {
+  background-image: url('../assets/images/project-dummy.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
