@@ -48,3 +48,7 @@ nav a:hover {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.roles li {
+  margin: 10px 0;
+}
